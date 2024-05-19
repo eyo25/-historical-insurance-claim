@@ -1,24 +1,24 @@
 # -historical-insurance-claim
-Insurance Claim Analysis Project
-Table of Contents
-Project Overview
-Dataset Description
-Project Structure
-Installation and Setup
-Data Preparation
-Hypothesis Testing
-Modeling Techniques
-Results and Evaluation
-Contributors
-License
-Project Overview
+# Claim Analysis Project
+# Table of Contents
+# Project Overview
+# Description
+# Project Structure
+# Installation and Setup
+# Data Preparation
+# Hypothesis Testing
+# Modeling Techniques
+# Results and Evaluation
+# Contributors
+# License
+# Project Overview
 The Insurance Claim Analysis Project aims to analyze and model insurance claim data to understand risk factors and predict key outcomes such as total premiums and total claims. This project includes data preprocessing, feature engineering, hypothesis testing, and the implementation of various machine learning models.
 
-Dataset Description
+# Dataset Description
 The dataset contains information about insurance policies and claims, including various attributes related to the insured items, policyholder demographics, and the specifics of each claim.
 
-Key Columns:
-UnderwrittenCoverID
+# Key Columns:
+*UnderwrittenCoverID
 PolicyID
 TransactionMonth
 IsVATRegistered
